@@ -9,7 +9,7 @@ Make sure to use the Windows Terminal for ANSI compatibility.
 ``` 
 git clone https://github.com/baabnq/kit
 cd kit/
-setupWindows.bat
+.\setupWindows.bat
 ```
 ## Building and Running Standard Tests
 ```
