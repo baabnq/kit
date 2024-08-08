@@ -1,0 +1,9 @@
+[submodule "vm"]
+	path = vm
+	url = https://github.com/baabnq/vm
+[submodule "libs"]
+	path = libs
+	url = https://github.com/baabnq/libs
+[submodule "main"]
+	path = main
+	url = https://github.com/baabnq/main
