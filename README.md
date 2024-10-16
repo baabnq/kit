@@ -11,11 +11,20 @@ git clone https://github.com/baabnq/kit
 cd kit/
 .\setupWindows.bat
 ```
+### Under Linux
+```
+git clone https://github.com/baabnq/kit
+cd kit/
+chmod +x setupLinux.sh
+./setupLinux.sh
+```
+
 ## Building and Running Standard Tests
 ```
 python compi.py -i libs/tests/testAll.baabnq
 python vm.py -f build.s1 -u Test
 ```
+(Under Linux, make sure to call "python3")
 
 
 
