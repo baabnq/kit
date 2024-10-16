@@ -8,7 +8,7 @@ cp vm/VM.py vm.py
 
 rm compiler -rf
 rm vm -rf
-rm .git -f
+rm .git -rf
 rm README.md
 
 rm setupLinux.sh
