@@ -13,3 +13,4 @@ del /s /q .git/
 del /s /q README.md
 
 del /q setupWindows.bat
+del /q setupLinux.sh

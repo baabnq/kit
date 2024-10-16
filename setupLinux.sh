@@ -11,5 +11,5 @@ rm vm -rf
 rm .git -rf
 rm README.md
 
-rm setupLinux.sh
+rm setup*
 
